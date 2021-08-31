@@ -24,7 +24,7 @@ MAPS = {
         "FHFFHFHF",
         "FFFHFFFG",
     ],
-     "8x8_v2": [
+     "8x8LEFT": [
         "SFFFFFFF",
         "FFFFFFFF",
         "FFFHFFFF",
@@ -34,7 +34,7 @@ MAPS = {
         "FHFFHFHF",
         "GFFHFFFF"
     ],
-     "8x8_v3": [
+     "8x8RIGHT": [
         "SFFFFFFG",
         "FFFFFFFF",
         "FFFHFFFF",
