@@ -24,6 +24,26 @@ MAPS = {
         "FHFFHFHF",
         "FFFHFFFG",
     ],
+     "8x8_v2": [
+        "SFFFFFFF",
+        "FFFFFFFF",
+        "FFFHFFFF",
+        "FFFFFHFF",
+        "FFFHFFFF",
+        "FHHFFFHF",
+        "FHFFHFHF",
+        "GFFHFFFF"
+    ],
+     "8x8_v3": [
+        "SFFFFFFG",
+        "FFFFFFFF",
+        "FFFHFFFF",
+        "FFFFFHFF",
+        "FFFHFFFF",
+        "FHHFFFHF",
+        "FHFFHFHF",
+        "FFFHFFFF"
+    ]
 }
 
 
